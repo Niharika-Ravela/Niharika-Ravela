@@ -1,6 +1,6 @@
 ## Hi there 👋 Niharika here...
 
-- 🔭 I’m currently working on  - building a scalable, hardware agnostic Artificial Intelligence / Computer Vision platform for high frequency tracking of shelf inventory for Walmart. I have more than 2 years of academic and professional experience in data science and analytics. With a recent MS Data Science graduate (CGPA 3.83) from University of North Texas. I am extremely excited about working on Data Problems. When I'm not working or reading, I like to spend my hours painting, crafts, cooking and on data science projects.
+- 🔭 I’m currently working on  - building . I have more than 2 years of academic and professional experience in data science and analytics. With a recent MS Data Science graduate (CGPA 3.83) from University of North Texas. I am extremely excited about working on Data Problems. When I'm not working or reading, I like to spend my hours painting, crafts, cooking and on data science projects.
 
 - 🌱 I’m currently learning ...
 
