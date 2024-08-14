@@ -1,12 +1,12 @@
-## Hi there 👋 Niharika here...
+### Hi there 👋 Niharika here...
 
-- 🔭 I’m currently working on  - building . I have more than 2 years of academic and professional experience in data science and analytics. With a recent MS Data Science graduate (CGPA 3.83) from University of North Texas. I am extremely excited about working on Data Problems. When I'm not working or reading, I like to spend my hours painting, crafts, cooking and on data science projects.
+- 🔭 I’m currently working as a Software Engineer with a focus on Python programming, specializing in identifying abnormal transactions in vendor invoices by analyzing historical purchase data. I have nearly 3 years of academic and professional experience in data science and analytics. With a recent MS Data Science graduate (CGPA 3.83) from University of North Texas.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to deepen my knowledge and experience in the field and also working on National Research Group's Externship on AI risk evaluation analysis.
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on real time projects that can be a potential solution to our daily problems
   
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with 
   
 - 💬 Ask me about
   - [ ] Data manipulation & Modeling using Python (OpenCV, Pandas, NumPy, scikit, matplotlib, TensorFlow)
