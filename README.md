@@ -1,6 +1,6 @@
 ### Hi there 👋 Niharika here...
 
-- 🔭 I’m currently working as a Financial Data Analyst @ Texas Department of State Health Services within the Fiscal Support and Oversight Unit. With an exposure in Python programming, specializing in identifying abnormal transactions in vendor invoices by analyzing historical purchase data. I have nearly 2.5 years of experience in data science and analytics. I hold a Master's degree in Data Science from University of North Texas and a Bachelor's degree in Computer Science and Engineering.
+- 🔭 I’m currently working as a Financial Analyst I @ Texas Department of State Health Services within the Fiscal Support and Oversight Unit. With an exposure in Python programming, specializing in identifying abnormal transactions in vendor invoices by analyzing historical purchase data. I have nearly 2.5 years of experience in data science and analytics. I hold a Master's degree in Data Science from University of North Texas and a Bachelor's degree in Computer Science and Engineering.
 
 - 🌱 I’m currently learning to deepen my knowledge and experience in the field and also working on National Research Group's Externship on AI risk evaluation analysis.
 
