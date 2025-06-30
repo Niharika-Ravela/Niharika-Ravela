@@ -1,25 +1,47 @@
 ### Hi there 👋 Niharika here...
 
-- 🔭 I’m currently working as a Financial Analyst I @ Texas Department of State Health Services within the Fiscal Support and Oversight Unit. With an exposure in Python programming, specializing in identifying abnormal transactions in vendor invoices by analyzing historical purchase data. I have nearly 2.5 years of experience in data science and analytics. I hold a Master's degree in Data Science from University of North Texas and a Bachelor's degree in Computer Science and Engineering.
+- 🔍 Financial Data Analyst | Python Developer | Power BI Enthusiast
+- 🔭 I’m currently working as a Financial Analyst I at the Texas Department of State Health Services (DSHS) in the Fiscal Support and Oversight division, where I automate compliance and reconciliation processes for 210+ grantees using Python, OCR, Power BI, and Excel. Previously, built production-grade data validation frameworks, ETL pipelines using MongoDB and Python, and APIs to support a GPT-style chatbot for invoice intelligence.
 
-- 🌱 I’m currently learning to deepen my knowledge and experience in the field and also working on National Research Group's Externship on AI risk evaluation analysis.
+- 🎓 I hold a Master’s in Data Science from the University of North Texas and a Bachelor’s in Computer Science & Engineering.
 
-- 👯 I’m looking to collaborate on real time projects that can be a potential solution to our daily problems
+- 🌱 I’m currently upskilling with Snowflake, advanced SQL, and real-world AI risk evaluation projects.
   
-- 🤔 I’m looking for help with 
+- 💼 I’m actively seeking contract or full-time roles in Data Science, Analytics, or ETL Engineering, especially those that allow me to contribute to meaningful, real-world impact using automation and AI. 
   
-- 💬 Ask me about
-  - [ ] Data manipulation & Modeling using Python (OpenCV, Pandas, NumPy, scikit, matplotlib, TensorFlow)
-  - [ ] Data wrangling using SQL
-  - [ ] Data Visualisation using MS Excel & Tableau
-  - [ ] Statistical analysis, Hypothesis testing(A/B Testing)
-  - [ ] Data Analysis: Data Modelling, Data Wrangling, Python (Pandas, NumPy, scikit, matplotlib, TensorFlow), Django, SQL, R, SPSS, MATLAB, Statistical analysis, Hypothesis testing
-  - [ ] Machine Learning: Supervised learning (KNN, Random Forest, Regression Analysis, General linear models , Naïve Bayes Classifiers, Gradient Descent), Unsupervised learning(K-means, PCA, Clustering), Neural Networks
-  - [ ] Data Visualization/Dashboard: Tableau, Advanced MS Excel, Microsoft Power BI
-  - [ ] Product & Marketing: A/B testing, Market Analysis, Sentiment Analysis, User Analysis
-  - [ ] Cloud: Azure, SAS Viya
+- 💻 Technical Stack
+  - [ ] Programming: Python, SQL, R
+  - [ ] ETL & Databases: Snowflake, MongoDB, SQLAlchemy, OCR (Tesseract), Regex
+  - [ ] Visualization: Power BI, Tableau, Advanced Excel
+  - [ ] Modeling & ML: Scikit-learn, Pandas, NumPy, TensorFlow (basics), Statistical Modeling, Hypothesis Testing, Outlier Detection
+  - [ ] Cloud: Azure (Functions, App Services), Git, VS Code, Jupyter
+  - [ ] Other Tools: SharePoint, FastAPI, Flask, GitHub
+ 
+- 🤝 Open to Collaborations
+
+- I'm always excited to collaborate on:
+- [ ] Real-world data automation projects
+- [ ] Community AI tools (e.g., invoice bots, risk analysis, dashboards)
+- [ ] Volunteer/nonprofit data initiatives
   
-- 📫 How to reach me: LinkedIn [https://www.linkedin.com/in/niharikaravela/]
-  
+- 📫 Let’s Connect
+- 🔗 LinkedIn [https://www.linkedin.com/in/niharikaravela/]
+- ✉️ niharikaravela3@gmail.com
+
 - 😄 Pronouns: She/Her
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
