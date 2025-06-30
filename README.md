@@ -20,9 +20,9 @@
 - 🤝 Open to Collaborations
 
 - I'm always excited to collaborate on:
-- [ ] Real-world data automation projects
-- [ ] Community AI tools (e.g., invoice bots, risk analysis, dashboards)
-- [ ] Volunteer/nonprofit data initiatives
+  - [ ] Real-world data automation projects
+  - [ ] Community AI tools (e.g., invoice bots, risk analysis, dashboards)
+  - [ ] Volunteer/nonprofit data initiatives
   
 - 📫 Let’s Connect
 - 🔗 LinkedIn [https://www.linkedin.com/in/niharikaravela/]
