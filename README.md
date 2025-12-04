@@ -1,47 +1,40 @@
-### Hi there 👋 Niharika here...
+# Hi 👋 I’m Niharika Ravela  
+**Python & AI/ML Engineer • LLM Automation • Data Engineer**  
 
-- 🔍 Financial Data Analyst | Python Developer | Power BI Enthusiast
-- 🔭 I’m currently working as a Financial Analyst I at the Texas Department of State Health Services (DSHS) in the Fiscal Support and Oversight division, where I automate compliance and reconciliation processes for 210+ grantees using Python, OCR, Power BI, and Excel. Previously, built production-grade data validation frameworks, ETL pipelines using MongoDB and Python, and APIs to support a GPT-style chatbot for invoice intelligence.
+I build production-ready Python systems combining automation, data pipelines, and generative AI to solve real-world document & data problems (invoices, grants, contracts, compliance, analytics).
 
-- 🎓 I hold a Master’s in Data Science from the University of North Texas and a Bachelor’s in Computer Science & Engineering.
+---
 
-- 🌱 I’m currently upskilling with Snowflake, advanced SQL, and real-world AI risk evaluation projects.
-  
-- 💼 I’m actively seeking contract or full-time roles in Data Science, Analytics, or ETL Engineering, especially those that allow me to contribute to meaningful, real-world impact using automation and AI. 
-  
-- 💻 Technical Stack
-  - [ ] Programming: Python, SQL, R
-  - [ ] ETL & Databases: Snowflake, MongoDB, SQLAlchemy, OCR (Tesseract), Regex
-  - [ ] Visualization: Power BI, Tableau, Advanced Excel
-  - [ ] Modeling & ML: Scikit-learn, Pandas, NumPy, TensorFlow (basics), Statistical Modeling, Hypothesis Testing, Outlier Detection
-  - [ ] Cloud: Azure (Functions, App Services), Git, VS Code, Jupyter
-  - [ ] Other Tools: SharePoint, FastAPI, Flask, GitHub
- 
-- 🤝 Open to Collaborations
+## 🔧 Skills & Tools  
+**Languages:** Python, SQL  
+**Data / ML:** pandas, NumPy, scikit-learn, LLMs (LangChain / OpenAI / Azure), NLP, ETL pipelines  
+**APIs & Deployment:** FastAPI, REST APIs, Docker, Serverless / Cloud functions  
+**Databases / Storage:** PostgreSQL / MySQL / MongoDB / Snowflake, CSV / Parquet pipelines  
+**Analytics & Visualization:** Power BI, matplotlib / seaborn, data modeling & validation  
 
-- I'm always excited to collaborate on:
-  - [ ] Real-world data automation projects
-  - [ ] Community AI tools (e.g., invoice bots, risk analysis, dashboards)
-  - [ ] Volunteer/nonprofit data initiatives
-  
-- 📫 Let’s Connect
-- 🔗 LinkedIn [https://www.linkedin.com/in/niharikaravela/]
-- ✉️ niharikaravela3@gmail.com
+---
 
-- 😄 Pronouns: She/Her
-  
+## 📂 Selected Projects  
 
+| ⭐ Project | What It Shows | Link |
+|-----------|----------------|------|
+| **Document-Intelligence Agent** | End-to-end ETL + LLM + API for invoice / grant / contract extraction & validation | 👉 `[repo link]`  |
+| **python-automation-utils** | Toolkit for PDF/Excel parsing, ETL pipelines, data-cleaning utilities, reusable across projects | 👉 `[repo link]`  |
+| **sql-portfolio** | Example SQL projects demonstrating data modeling, complex queries, analytics & reporting | 👉 `[repo link]`  |
+| **ml-baseline-models** | Classic ML experiments (classification/regression) packaged cleanly, suitable for data-science roles | 👉 `[repo link]`  |
 
+> “Quality over quantity.” I maintain a few well-structured repos rather than many isolated notebooks.  
 
+---
 
+## 📚 What I’m Learning / Exploring  
+- Generative-AI applications (RAG, vector search, LLM agents)  
+- Production-grade data pipelines & MLOps fundamentals  
+- Advanced SQL (Snowflake, windowing, analytics)  
+- Deployment & cloud-native workflows  
 
+---
 
-
-
-
-
-
-
-
-
-
+## 📫 Let’s Connect  
+LinkedIn: [https://www.linkedin.com/in/niharikaravela/]  
+Email: niharikaravela3@gmail.com  
