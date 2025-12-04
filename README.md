@@ -36,5 +36,5 @@ I build production-ready Python systems combining automation, data pipelines, an
 ---
 
 ## 📫 Let’s Connect  
-LinkedIn: [https://www.linkedin.com/in/niharikaravela/]  
+LinkedIn: www.linkedin.com/in/niharikaravela/
 Email: niharikaravela3@gmail.com  
