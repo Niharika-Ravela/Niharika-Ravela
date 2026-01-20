@@ -1,44 +1,50 @@
-# Hi 👋 I’m Niharika Ravela  
+Hi 👋 I’m Niharika Ravela  
+Financial & Data Analyst | Python Automation | Applied Analytics & ML
 
-**Python & AI/ML Engineer • Applied Data Scientist • LLM Automation**
-
-I build Python-based systems that combine automation, data pipelines, and AI/LLMs to make complex, document-heavy processes (invoices, grants, contracts, payroll, analytics) smarter and faster.
-
----
-
-### 🧠 What I Work With
-
-- **Languages:** Python, SQL  
-- **AI & ML:** LLMs (OpenAI/Azure), LangChain, NLP, scikit-learn  
-- **Data & Pipelines:** Pandas, ETL workflows, data validation, document parsing (PDF/Excel)  
-- **APIs & Services:** FastAPI, REST APIs, serverless/cloud functions  
-- **Analytics:** Power BI, exploratory data analysis, financial & operational reporting  
+I build Python-driven data and automation solutions that support financial analysis, reporting, and decision-making in document-heavy environments such as grants, invoices, contracts, and payroll.
 
 ---
 
-### 📂 Highlighted Project Areas
+🧠 What I Work With
 
-I’m currently organizing my repos into a few focus areas:
-
-- **Document Intelligence & LLMs** – AI/LLM-powered extraction & validation for invoices, grants, contracts, and payroll-related documents.  
-- **Python Automation & ETL** – Utilities for parsing PDFs/Excels, cleaning data, and building reusable data pipelines.  
-- **Analytics & SQL** – Financial and operational analysis using SQL and BI tools.  
-- **ML Fundamentals** – Classic ML models (classification/regression) in clean, reproducible pipelines.
-
-> I prefer having a few well-structured, real-world-style projects rather than many disconnected notebooks.
+Languages: Python, SQL  
+Analytics & Reporting: Power BI, Excel, exploratory data analysis, KPI reporting  
+Data & Pipelines: Pandas, ETL workflows, data validation, PDF/Excel parsing  
+Automation & APIs: FastAPI, REST APIs, serverless/cloud functions  
+Applied ML & AI: NLP, classical ML (scikit-learn), LLM-assisted extraction & validation  
 
 ---
 
-### 🌱 Currently Learning / Exploring
+📂 Project Focus Areas
 
-- Retrieval-augmented generation (RAG) & vector search  
-- LLM agents and workflow orchestration  
-- More robust data engineering patterns & MLOps basics  
-- Deepening SQL for analytics and warehouse-style queries  
+My repositories are organized around real-world analytics and automation use cases:
+
+• Financial & Operational Analytics  
+  SQL- and Python-based analysis projects, dashboards, and reporting workflows.
+
+• Python Automation & ETL  
+  Reusable utilities for parsing PDFs/Excels, cleaning data, and building reliable data pipelines.
+
+• Document Intelligence (Applied AI/ML)  
+  LLM-assisted extraction, validation, and reconciliation for invoices, grants, and payroll documents.
+
+• ML Fundamentals  
+  Clean, reproducible pipelines for classification and regression with a focus on interpretability and business relevance.
+
+I prioritize a small number of well-structured, realistic projects over many disconnected notebooks.
 
 ---
 
-### 🤝 Let’s Connect
+🌱 Currently Learning / Exploring
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/niharikaravela/)  
-- Email: niharikaravela3@gmail.com  
+• Advanced SQL for analytics and warehouse-style querying  
+• Retrieval-augmented generation (RAG) for document workflows  
+• Data engineering patterns and MLOps fundamentals  
+• Improving analytical model validation and reliability  
+
+---
+
+🤝 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/niharikaravela/  
+Email: niharikaravela3@gmail.com
