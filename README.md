@@ -1,5 +1,5 @@
 Hi 👋 I’m Niharika Ravela  
-Financial & Data Analyst | Python Automation | Applied Analytics & ML
+Analytics Engineer | Python · SQL · Power BI · LLMs | Financial Analytics & Applied AI
 
 I build Python-driven data and automation solutions that support financial analysis, reporting, and decision-making in document-heavy environments such as grants, invoices, contracts, and payroll.
 
@@ -35,7 +35,7 @@ I prioritize a small number of well-structured, realistic projects over many dis
 
 ---
 
-🌱 Currently Building / Exploring
+🌱 Currently Building and Exploring
 
 • Advanced SQL for analytics and warehouse-style querying  
 • Retrieval-augmented generation (RAG) for document workflows  
