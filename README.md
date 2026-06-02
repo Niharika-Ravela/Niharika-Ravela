@@ -35,7 +35,7 @@ I prioritize a small number of well-structured, realistic projects over many dis
 
 ---
 
-🌱 Currently Learning / Exploring
+🌱 Currently Building / Exploring
 
 • Advanced SQL for analytics and warehouse-style querying  
 • Retrieval-augmented generation (RAG) for document workflows  
